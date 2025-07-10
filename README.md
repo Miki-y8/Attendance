@@ -3,7 +3,7 @@
 
 1.git clone
 
-git@github.com:Miki-y8/Free-market.git
+git@github.com:Miki-y8/Attendance.git
 
 2.DockerDesktopアプリを立ち上げる
 
